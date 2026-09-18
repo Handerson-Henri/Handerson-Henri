@@ -63,10 +63,6 @@ Profissional de TI com atuação em sustentação de sistemas, suporte, relacion
     <img src="https://cdn.simpleicons.org/zorin/15A6F0" width="48" height="48" alt="Zorin OS Pro" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://chatgpt.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="48" height="48" alt="ChatGPT" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://www.onorca.dev/" target="_blank">
     <img src="https://www.google.com/s2/favicons?sz=128&domain=onorca.dev" width="48" height="48" alt="Orca" />
   </a>
