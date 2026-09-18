@@ -84,8 +84,8 @@ Instalador automático não oficial do driver do display do **Air Cooler Rise Mo
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Handerson-Henri&show_icons=true&theme=transparent&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Handerson-Henri&layout=compact&theme=transparent&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Handerson-Henri&theme=github_dark" alt="Estatísticas do GitHub" />
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Handerson-Henri&theme=github_dark" alt="Linguagens mais usadas" />
 </p>
 
 ---
