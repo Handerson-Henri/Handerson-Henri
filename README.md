@@ -12,7 +12,7 @@ Profissional de TI com atuação em sustentação de sistemas, suporte, relacion
 
 ---
 
-<img align="right" alt="The IT Crowd - Moss com fogo" width="320" src="https://media1.tenor.com/m/4PeBFGUeyewAAAAd/the-it-crowd-moss.gif" />
+<img align="right" alt="The IT Crowd - Moss com fogo" width="320" src="https://media1.tenor.com/m/HT00YmT4TiQAAAAd/fire-it.gif" />
 
 ### 👨‍💻 Sobre mim
 
