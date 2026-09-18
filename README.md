@@ -57,12 +57,38 @@ Profissional de TI com atuação em sustentação de sistemas, suporte, relacion
 ### 🛠️ Tecnologia e ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,docker,bash,vscode" height="48" alt="Linux, Git, GitHub, GitLab, Docker, Bash e VS Code" />
-  &nbsp;&nbsp;
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+  </a>
+  &nbsp;
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://about.gitlab.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
+  </a>
+  &nbsp;
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+  </a>
+  &nbsp;
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+  </a>
+  &nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="Visual Studio Code" />
+  </a>
+  &nbsp;
   <a href="https://zorin.com/os/pro/" target="_blank">
     <img src="https://cdn.simpleicons.org/zorin/15A6F0" width="48" height="48" alt="Zorin OS Pro" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.onorca.dev/" target="_blank">
     <img src="https://www.google.com/s2/favicons?sz=128&domain=onorca.dev" width="48" height="48" alt="Orca" />
   </a>
