@@ -64,7 +64,7 @@ Profissional de TI com atuação em sustentação de sistemas, suporte, relacion
   </a>
   &nbsp;&nbsp;
   <a href="https://chatgpt.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="48" height="48" alt="ChatGPT" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="48" height="48" alt="ChatGPT" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.onorca.dev/" target="_blank">
