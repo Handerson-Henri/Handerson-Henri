@@ -56,14 +56,20 @@ Profissional de TI com atuação em sustentação de sistemas, suporte, relacion
 
 ### 🛠️ Tecnologia e ferramentas
 
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,docker,bash,vscode" alt="Tecnologias e ferramentas" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Zorin%20OS%20Pro-15A6F0?style=for-the-badge&logo=zorin&logoColor=white" alt="Zorin OS Pro" />
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/🐋%20Orca-Orquestrador-0d1117?style=for-the-badge" alt="Orca Orquestrador" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,docker,bash,vscode" height="48" alt="Linux, Git, GitHub, GitLab, Docker, Bash e VS Code" />
+  &nbsp;&nbsp;
+  <a href="https://zorin.com/os/pro/" target="_blank">
+    <img src="https://cdn.simpleicons.org/zorin/15A6F0" width="48" height="48" alt="Zorin OS Pro" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://chatgpt.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="48" height="48" alt="ChatGPT" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.onorca.dev/" target="_blank">
+    <img src="https://www.google.com/s2/favicons?sz=128&domain=onorca.dev" width="48" height="48" alt="Orca" />
+  </a>
 </p>
 
 ---
